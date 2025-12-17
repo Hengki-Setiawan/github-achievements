@@ -14,7 +14,7 @@ A repository to showcase and earn GitHub Achievements!
 ## 📊 Progress
 
 - [x] Repository created
-- [ ] First PR merged
+- [x] First PR merged
 - [ ] Second PR merged
 - [ ] YOLO achievement unlocked
 - [ ] Quickdraw achievement unlocked
